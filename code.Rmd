@@ -1,6 +1,5 @@
 ---
 title: "Predicting the popularity of a song based on Spotify sound/musical metrics"
-author: 'Akshat Thakur, Navid Samiei, Asen Lee, Yichen Xin'
 output: 
   bookdown::pdf_document2:
     includes:
